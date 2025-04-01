@@ -65,8 +65,7 @@ Ensure you have **Node.js** and **npm** installed on your machine.
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first.
 
-## License
-This project is **open-source** under the MIT License.
+
 
 ---
 Enjoy coding! 🚀
